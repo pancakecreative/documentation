@@ -52,11 +52,11 @@ Set your Alfred sync folder to ~/Google Drive/Alfred Preferences, in doing so yo
 
 How?
 
-Configure Google Drive (Or Google Backup & Sync)
-Navigate to drive.google.com
-Drag shared folders you want to sync (Alfred Preferences) to your "My Drive" folder
-Navigate to Alfred Sync preferences
-Set ~/Google Drive/Alfred Preferences/ as your Alfred Preferences Sync folder.
+- Configure Google Drive (Or Google Backup & Sync)
+- Navigate to drive.google.com
+- Drag shared folders you want to sync (Alfred Preferences) to your "My Drive" folder
+- Navigate to Alfred Sync preferences
+- Set ~/Google Drive/Alfred Preferences/ as your Alfred Preferences Sync folder.
 
 #### Text Expansion/Snippets
 Set the Alfred hotkey to Option + Space, Cmd + Space, or Control + Space. Review the Alfred snippets functionality, and add your snippets to the shared Alfred preferences document.
