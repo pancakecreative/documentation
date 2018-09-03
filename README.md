@@ -15,7 +15,6 @@ This documentation is defined in terms of roles, and the responsibilities define
 #### Administrative Roles
 - Marketing Director
 - Bookkeeper (Accountant)
-- Administrator
 - Personal Assistant
 - Account Manager
 
