@@ -26,7 +26,7 @@ The chief operating officer position provides the leadership, management and vis
 - Act as lead "client-care officer" through direct contact with every client and partner.
 - Represent the organization with clients, investors, and business partners.[^2]
 
-## Qualifications/Comptencies
+## Qualifications/Competencies
 - Interpersonal Skills[^2]
 - Leadership[^2]
 - Strategic Thinking[^2]
