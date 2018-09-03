@@ -1,4 +1,4 @@
-# Contex Switching
+# Context Switching
 
 Try not to do it!
 
