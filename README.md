@@ -1,6 +1,5 @@
 # Pancake Documentation
 
-Here's where documentation happens.
 This documentation is defined in terms of roles, and the responsibilities defined by those roles. Each role has its own directory, which is intended to include a role description, as well as a list of separate documents in Markdown format. These documents should detail processes required to complete tasks or expectations required of the respective role.
 
 ## Table of contents
