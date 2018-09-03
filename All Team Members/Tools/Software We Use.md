@@ -195,15 +195,21 @@ Set shortcut key CMD + Shift + 1 for screenshots.
 
 ### Git
 
+### Amphetemine
+
+Use this to keep your computer from going to sleep in meetings. Availabe for free in the Mac App Store.
+
+### 
+
 ### Markdown Editors
 
 There are a million Markdown editors around. @ Pancake, we prefer one of the following:
 
-### [MacDown](https://macdown.uranusjr.com/)
+#### [MacDown](https://macdown.uranusjr.com/)
 Used to write a majority of this documentation, MacDown is a beautiful and simple free Markdown Editor with live preview functionality.
 
-### [SimpleMDE Markdown Editor](https://simplemde.com/)
+#### [SimpleMDE Markdown Editor](https://simplemde.com/)
 Javascript Markdown Editor? WHAAAAT!?!?!
 
-### iaWriter
+#### iaWriter
 A little heavy for quick Markdown editing. iaWriter is a beautiful tool that syncs with Google Drive for note taking and client documentation. Available in the Pancake account in the Mac App Store.
