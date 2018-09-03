@@ -5,12 +5,12 @@ The CEO has overall responsibility for creating, planning, implementing, and int
 
 It is also the responsibility of the CEO to ensure that the organization's leadership maintains constant awareness of both the external and internal competitive landscape, opportunities for expansion, customer base, markets, new industry developments and standards, and so forth.[^1]
 
-## Board of Directors
-In a typical corporation, the CEO reports to the Board of Directors or in some non-profit settings, such as state government, the CEO may head up an agency or department and report to the office of the governor. The CEO will always serve at the discretion of the Board of Directors.[^1]
+> ### Board of Directors
+> In a typical corporation, the CEO reports to the Board of Directors or in some non-profit settings, such as state government, the CEO may head up an agency or department and report to the office of the governor. The CEO will always serve at the discretion of the Board of Directors.[^1]
 
-The CEO may also own the business, and may have founded the business, so his or her commitment to the business is significant. They may also own a significant portion of the company or its stock. In these cases, a Board of Directors may exist, but its authority is nominal and advisory to the CEO.[^1]
+> The CEO may also own the business, and may have founded the business, so his or her commitment to the business is significant. They may also own a significant portion of the company or its stock. In these cases, a Board of Directors may exist, but its authority is nominal and advisory to the CEO.[^1]
 
-*Note: Pancake (as of 09.02.2018) does not have a board of directors. The company (corporation?) is owned entirely by the CEO, which creates some confusion and ambiguity. In this respect, Pancake is not a “true” corporation, although it may become such in the future. For the purposes of this document, the board of directors is one and the same as the founder.*
+> *Note: Pancake (as of 09.02.2018) does not have a board of directors. The company (corporation?) is owned entirely by the CEO, which creates some confusion and ambiguity. In this respect, Pancake is not a “true” corporation, although it may become such in the future. For the purposes of this document, the board of directors is one and the same as the founder.*
 
 More specifically, the Chief Operating Officer (CEO) is responsible for:
 
