@@ -42,7 +42,6 @@ This documentation is defined in terms of roles, and the responsibilities define
 #### Other
 - Search Engine Optimization Engineer
 - WordPress Maintenance Engineer
- https://d.pr/i/roGAz7
  
 #### Videography Roles
 - Videographer
