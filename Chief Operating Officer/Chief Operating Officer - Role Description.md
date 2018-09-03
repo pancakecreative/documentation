@@ -31,4 +31,4 @@ The goal of the COO role is to secure the functionality of business to drive ext
 - Aptitude in decision-making and problem-solving[^1]
 - BSc/BA in Business Administration or relevant field; MSc/MBA is a plus[^1]
 
-[^[Workable COO job description](https://resources.workable.com/coo-job-description)]
+[^1]: [Workable COO job description](https://resources.workable.com/coo-job-description)
