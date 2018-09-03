@@ -16,7 +16,7 @@ This documentation is defined in terms of roles, and the responsibilities define
 - Marketing Director
 - Bookkeeper (Accountant)
 - Personal Assistant
-- Account Manager
+- Account Manager // Move this to another role category?
 
 #### [Design Roles](https://uxdesign.cc/the-spectrum-of-digital-design-roles-in-2018-3286390a9966)
 - User Experience Designer
