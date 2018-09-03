@@ -27,4 +27,5 @@ More specifically, the Chief Operating Officer (CEO) is responsible for:
 - Creating a learning organization that will continue to grow and flourish and enhancing the skills and abilities of employees. Only if the significant players continue to learn and grow will the organization truly succeed.
 
   
+This document is based largely on the following article:
 https://www.thebalancecareers.com/what-does-a-chief-executive-officer-ceo-do-1918528
