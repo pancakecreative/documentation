@@ -1,4 +1,4 @@
-# Role Description - Chief Operating Officer (CEO) 
+# Role Description - Chief Executive Officer (CEO) 
 
 ## Brief
 The CEO has overall responsibility for creating, planning, implementing, and integrating the strategic direction of an organization. This includes responsibility for all components and departments of a business.  As with any level of management in an organization, the CEO's role starts with the fundamental job responsibilities of a manager.[^1]
@@ -15,7 +15,7 @@ The CEO may also own the business, and may have founded the business, so his or 
 > *Note: Pancake (as of 09.02.2018) does not have a board of directors. The company (corporation?) is owned entirely by the CEO, which creates some confusion and ambiguity. In this respect, Pancake is not a “true” corporation, although it may become such in the future. For the purposes of this document, the board of directors is one and the same as the founder.*
 
 
-More specifically, the Chief Operating Officer (CEO) is responsible for:
+More specifically, the Chief Executive Officer (CEO) is responsible for:
 
 - Creating, communicating, and implementing the organization's vision, mission, and overall direction. Leading the development and implementation of the overall organization's strategy.[^1]
 - Leading, guiding, directing, and evaluating the work of other executive leaders including presidents, vice presidents, and directors, depending on the organization's reporting structure. In the process of leading these senior leaders, the CEO makes certain that the strategic direction the CEO filters down through the organization to ensure its achievement.[^1]
