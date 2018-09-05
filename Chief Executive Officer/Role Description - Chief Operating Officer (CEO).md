@@ -1,4 +1,4 @@
-# Role Description - Chief Operating Officer (CEO) 
+# Role Description - Chief Executive Officer (CEO) 
 
 ## Brief
 The CEO has overall responsibility for creating, planning, implementing, and integrating the strategic direction of an organization. This includes responsibility for all components and departments of a business.  As with any level of management in an organization, the CEO's role starts with the fundamental job responsibilities of a manager.[^1]
