@@ -60,13 +60,49 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eu eros feugiat diam
 		- Specific action steps
 - Landmines                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
 	- What do we do when we step on a landmine?
+		- Give it a second
+			- If someone steps on a landmine of yours, wait at least 30 minutes before saying anything about that hurt.
+			- If you recognize stepping on a landmine, apologize as quickly as you can, but don't attempt to go farther unless the landmined person invites you into that conversation.
 		- Communicate
+			- If you're the one hurt, say something to the other person, in private and as kindly as you can.
 		- Explain intentions
+			- If you're the person who stepped on a landmine, ask if you can explain what you meant to communicate. Recognize that what you meant may not be the way the thing was perceived, and that perception = the other human's reality. 
 		- Explain impact
-		- Remember that there's probably shame on both sides
+			- For the lanmined person, explain the impact of your perception. Make an effort to communicate without attacking or hurting the other person. The objective is to care for other humans and resolve the situation peacefully so trust can be established. 
+		- Remember that there's probably shame or hurt on both sides
 		- Apologize
+			- If you stepped on someone's landmine, apologize for hurting them. It doesn't really matter if you were right or wrong, if they're hurt they need an apology. 
 		- Work on forgiving the thing
-		- 	If you can (and you have) communicate forgiveness (but don't force it)
+			- Forgiveness takes time. Sometime it takes a lot of time. Forgiveness can never be forced, and it can never ever ever be required. **Genuine, communicated forgiveness is, however, the best way of resolving shame for both yourself and the person who stepped on your landmine**. Odds are they didn't mean to do so, and they're now sad and feeling shame at the fact that they hurt you. 
+		- If you can (and if you have), communicate forgiveness.
+			- This can never be required or forced. It must be genuine, and it must be offered freely on the part of the landmined person or it will not be effective.
+		- If you can't, and if you haven't, do what you can to communicate care for the offending party. Remember that they're human as well, and that probably realize they fucked up.
+
+
+## Observing Healthy Boundaries
+
+- There's no such thing as "work life balance"
+	- Your life is your life. You don't stop being a human when you get to work, and start being a human when you clock out. You are a human all the time.
+	- [**There is** work/life sustainability.](https://heykatielee.com/there-is-no-such-thing-as-worklife-balance/)
+	- [**There is** work/life rhythms.](https://www.forbes.com/sites/williamvanderbloemen/2017/04/17/there-is-no-such-thing-as-work-life-balance/#b03f6f439c88)
+	- **There is** self-care.
+		- Exercise
+		- Eat well
+		- Eat enough
+		- Get enough sleep
+		- Take time to unplug from work things
+	- **There is** healthy boundaries
+	- **There is** realistic promises
+	- **There is** being careful not to become overloaded
+- Humans need rest!
+- Eat away from your desk
+- Always log your time! (Or... never work off the clock!)
+	- Shame will tell you to work off the clock, that you don't deserve to be getting paid for this time beacuse X or X or X. **This is a lie from your shame gremlins**.
+	- Always log your time spent working. These are minutes and seconds that you will never get back.
+- Humans need exercise
+- Humans need sunshine
+- Humans need greenery
+- Humans need to remember that work isn't the most important thing (although it is important)
 
 ## Compensation Plan Initiatives
 
