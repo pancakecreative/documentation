@@ -14,7 +14,7 @@ Care for humans is central to Pancake's mission and values. As such, we've defin
 ### Culture Iniatives
 - Establishing Humanity
  	- Humans are humans wherever they go
-	 	- As an employer, you don't get just a machine to do your bidding when you hire a person. An employee is not human captial, they're a complete fucking fucking human, with all the good and amazing and painful and joyful and difficult things that come humanity. Humans have good days and bad days, and strenths and weaknesses. **And above all, they have inherent value that you must understand and celebrate.** If you're trying to ignore the humanness of humans, you're doing it wrong. Don't do it wrong. Do it right.
+	 	- As an employer, you don't get just a machine to do your bidding when you hire a person. An employee is not human captial, they're a complete human, with all the good and amazing and painful and joyful and difficult things that come humanity. Humans have good days and bad days, and strenths and weaknesses. **And above all, they have inherent value that you must understand and celebrate.** If you're trying to ignore the humanness of humans, you're doing it wrong. Don't do it wrong. Do it right.
 	- Humans need community
 	- Humans need love
 	- Humans need safety 
