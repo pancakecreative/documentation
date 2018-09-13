@@ -4,7 +4,7 @@ Care for humans is central to Pancake's mission and values. As such, we've defin
 
 ## Contents of this document
 
-### Culture Iniatives
+### Culture Initiatives
 - Establishing Humanity
 - Building Shame Resilience
 - Observing healthy boundaries
