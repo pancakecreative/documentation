@@ -64,11 +64,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eu eros feugiat diam
 			- If someone steps on a landmine of yours, wait at least 30 minutes before saying anything about that hurt.
 			- If you recognize stepping on a landmine, apologize as quickly as you can, but don't attempt to go farther unless the landmined person invites you into that conversation.
 		- Communicate
-			- If you're the one hurt, say something to the other person, in private and as kindly as you can.
+			- If you're the one hurt, say something to the other person. Do this in person, in private, and in as caring a manner as you can.
 		- Explain intentions
-			- If you're the person who stepped on a landmine, ask if you can explain what you meant to communicate. Recognize that what you meant may not be the way the thing was perceived, and that perception = the other human's reality. 
+			- If you're the person who stepped on a landmine, ask if you can explain what you meant to communicate. Recognize that what you meant may not be the way the thing was perceived, and that perception = the other human's reality. If the other person is unwilling to hear your explanation, don't attempt to force it.
 		- Explain impact
-			- For the lanmined person, explain the impact of your perception. Make an effort to communicate without attacking or hurting the other person. The objective is to care for other humans and resolve the situation peacefully so trust can be established. 
+			- For the landmined person, explain the impact of your perception. Make an effort to communicate without attacking or hurting the other person. The objective is to care for other humans and resolve the situation peacefully so trust and relationship can be reinforced.. 
 		- Remember that there's probably shame or hurt on both sides
 		- Apologize
 			- If you stepped on someone's landmine, apologize for hurting them. It doesn't really matter if you were right or wrong, if they're hurt they need an apology. 
