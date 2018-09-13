@@ -4,6 +4,12 @@ Care for humans is central to Pancake's mission and values. As such, we've defin
 
 ## Contents of this document
 
+### Culture Iniatives
+- Establishing Humanity
+- Building Shame Resilience
+- Observing healthy boundaries
+- Open sourced processes & documentation
+
 ### Compensation Plan Initiatives
 - Paid sick time
 - Healthcare
@@ -11,65 +17,56 @@ Care for humans is central to Pancake's mission and values. As such, we've defin
 - Paid Holidays
 - 401k Plans
 
-### Culture Iniatives
-- Establishing Humanity
- 	- Humans are humans wherever they go
-	 	- As an employer, you don't get just a machine to do your bidding when you hire a person. An employee is not human captial, they're a complete human, with all the good and amazing and painful and joyful and difficult things that come humanity. Humans have good days and bad days, and strenths and weaknesses. **And above all, they have inherent value that you must understand and celebrate.** If you're trying to ignore the humanness of humans, you're doing it wrong. Don't do it wrong. Do it right.
-	- Humans need community
-	- Humans need love
-	- Humans need safety 
-	- Humans need listening
-	- Humans need to feel valued
-	- Humans need to feel considered
-
-- Building Shame Resilience
-	- Defining Shame
-	- Identifying Shame
-	- Defining Vulnerability/Authenticity
-		- Vulnerability is Courage
-		- Authenticity is Consistent Vulnerability
-	- Doing the thing (what does it look like?)
-		- Practicing Authenticity with Team Members
-		- Practicing Authenticity with Clients
-	- Getting from "Not Enough" to "I am Enough"
-		- Identifying Shame Triggers
-		- Practicing Safety for others
-			- Specific action steps
-	- Landmines                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
-		- What do we do when we step on a landmine?
-			- Communicate
-			- Explain intentions
-			- Explain impact
-			- Remember that there's probably shame on both sides
-			- Apologize
-			- Work on forgiving the thing
-
-- Observing healthy boundaries
-	- There's no such thing as "work life balance"
-		- Your life is your life.
-		- You don't stop being a human when you get to work, and start being a human when you clock out. You are a human all the time.
-		- [**There is** work/life sustainability.](https://heykatielee.com/there-is-no-such-thing-as-worklife-balance/)
-		- [**There is** work/life rhythms.](https://www.forbes.com/sites/williamvanderbloemen/2017/04/17/there-is-no-such-thing-as-work-life-balance/#b03f6f439c88)
-		- **There is** self-care.
-			- Exercise
-			- Eat well
-			- Eat enough
-			- Get enough sleep
-			- Take time to unplug 
-		- **There is** healthy boundaries
-		- **There is** realisting promises
-	- Humans need rest!
-	- Eat away from your desk
-	- Always log your time! (Or... never work off the clock!)
-		- Shame will tell you to work off the clock, that you don't deserve to be getting paid for this time beacuse X or X or X. **This is a lie from your shame gremlins**.
-		- Always log your time spent working. These are minutes and seconds that you will never get back.
-	- Humans need exercise
-	- Humans 
-
-- Open sourced processes & documentation
-
 ### Recruitment Initiatives
 - Internship Development
+
+Now that we've got that out of the way, let's get down to business (and defeat the Huns).
+
+## Establishing Humanity
+
+### Humans are humans wherever they go
+As an employer, you don't get just a machine to do your bidding when you hire a person. An employee is not human capital, they're a complete human, with all the good and amazing and painful and joyful and difficult things that come with humanity. Humans have good days and bad days, and strengths and weaknesses. **And above all, they have inherent value that you must understand and celebrate.** If you're trying to ignore the humanness of humans, you're doing it wrong. Don't do it wrong. Do it right.
+
+### Humans need community
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eu eros feugiat diam porttitor ornare at ut lectus.
+
+### Humans need love
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eu eros feugiat diam porttitor ornare at ut lectus.
+
+### Humans need safety 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eu eros feugiat diam porttitor ornare at ut lectus.
+
+### Humans need listening
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eu eros feugiat diam porttitor ornare at ut lectus.
+
+### Humans need to feel valued
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eu eros feugiat diam porttitor ornare at ut lectus.
+
+### Humans need to feel considered
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eu eros feugiat diam porttitor ornare at ut lectus.
+
+## Building Shame Resilience
+- Defining Shame
+- Identifying Shame
+- Defining Vulnerability/Authenticity
+	- Vulnerability is Courage
+	- Authenticity is Consistent Vulnerability
+- Doing the thing (what does it look like?)
+	- Practicing Authenticity with Team Members
+	- Practicing Authenticity with Clients
+- Getting from "Not Enough" to "I am Enough"
+	- Identifying Shame Triggers
+	- Practicing Safety for others
+		- Specific action steps
+- Landmines                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+	- What do we do when we step on a landmine?
+		- Communicate
+		- Explain intentions
+		- Explain impact
+		- Remember that there's probably shame on both sides
+		- Apologize
+		- Work on forgiving the thing
+		- 	If you can (and you have) communicate forgiveness (but don't force it)
 
 ## Compensation Plan Initiatives
 
@@ -134,7 +131,7 @@ This should happen as some point. Pancake needs a solid sales pipeline and a pro
 - Christmas Day
 - Memorial Day
 
-This is subject to change and discussion
+This is subject to change and discussion.
 
 #### Paid holiday cost
 
@@ -147,3 +144,6 @@ Given that gross revenue goals for market competitive rates have been achieved, 
 ### 401k Plans
 
 401k plans and matching haven't been fully researched at this time, and have no offical trigger. Further research and planning is required to implement 401k plans.
+
+## Internship Development
+Things here.
