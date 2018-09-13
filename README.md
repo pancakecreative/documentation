@@ -19,6 +19,7 @@ This documentation is defined in terms of roles, and the responsibilities define
 - Account Manager // Move this to another role category?
 
 #### [Design Roles](https://uxdesign.cc/the-spectrum-of-digital-design-roles-in-2018-3286390a9966)
+- Art Director
 - User Experience Designer
 - User Interface Designer
 - Web Designer
@@ -32,7 +33,7 @@ This documentation is defined in terms of roles, and the responsibilities define
 	- Angular Engineer
 	- PHP Engineer
 	- Et al
-- Quality Assurance Tester
+- Quality Assurance Engineer
 - Technical Specialist
 	- AWS Engineer
 	- Firebase Engineer
